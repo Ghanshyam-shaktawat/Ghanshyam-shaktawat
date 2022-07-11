@@ -5,6 +5,6 @@
 - 📫 Reach me on maiil - 'ghan6171@gmail.com' or on Discord-id - 'DeadShoot#1731'
 
 <!---
-Ghanshyam-shaktawat/Ghanshyam-shaktawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ghanshyam-shaktawat/ReadMe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
