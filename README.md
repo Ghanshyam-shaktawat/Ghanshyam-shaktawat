@@ -9,7 +9,6 @@
 </div>
 </div>
 <div>
-<hr>
 <h2>About Me:</h2>
 <ul>
 <li>👋 Hi, I’m @Ghanshyam-shaktawat, a programmer from India.</li>
