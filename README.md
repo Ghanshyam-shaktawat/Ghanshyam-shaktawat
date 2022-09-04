@@ -18,7 +18,6 @@
 <li>📫 Reach me on maiil - 'ghan6171@gmail.com' or on Discord-id - 'DeadShoot#1731'</li>
 </ul>
 </div>
-<hr>
 <div>
 <h2>Languages and Tools:</h2>
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -29,7 +28,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" **alt="Postgresql" width="40" height="40"/>
 </div>
-<hr>
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghanshyam-shaktawat&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
