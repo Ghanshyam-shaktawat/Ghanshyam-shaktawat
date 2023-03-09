@@ -3,7 +3,7 @@
 <ul>
 <li>👋 Hi, I’m @Ghanshyam-shaktawat, a programmer from India.</li>
 <li>👀 I’m interested in Full Stack Web develpomenet.</li>
-<li>🌱 I’m currently learning Django, Django Rest framework and React.</li>
+<li>🌱 I’m currently learning Django, three.js, React and nextjs.</li>
 <li>💞️ I’m looking to collaborate on backend porjects so i can learn more from senior developers.</li>
 <li>📫 Reach me on maiil - 'ghan6171@gmail.com' or on Discord-id - 'DeadShoot#1731'</li>
 </ul>
