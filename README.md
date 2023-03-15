@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ghanshyam Singh Shaktawat</h1>
 <h3 align="center">A passionate full stack web developer from India.</h3>
-<div>
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghanshyam-shaktawat&label=Profile%20views&color=0e75b6&style=flat" alt="ghanshyam-shaktawat" /> </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ghanshyam-shaktawat&label=Profile%20views&color=0e75b6&style=flat" alt="ghanshyam-shaktawat" /> </p>
+
 <h2>About Me:</h2>
 <ul>
 <li>👀 I’m a Full Stack Web developer.</li>
@@ -10,9 +11,8 @@
 <li>💞️ I’m always looking to collaborate on web porjects so i can learn more from other dev.</li>
 <li>📫 Reach me on maiil - 'ghan6171@gmail.com' or on Discord-id - 'DeadShoot#1731'</li>
 </ul>
-</div>
+  
 <div>
-  <br>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
