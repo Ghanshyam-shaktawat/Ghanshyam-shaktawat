@@ -6,7 +6,7 @@
 <h2>About Me:</h2>
 <ul>
 <li>👀 I’m a Full Stack Web developer.</li>
-<li>🌱 I’m love working with Django framework.</li>
+<li>🌱 I love working with Django framework.</li>
 <li>🌱 I’m currently learning Express, three.js and React.</li>
 <li>💞️ I’m always looking to collaborate on web porjects so i can learn more from other dev.</li>
 <li>📫 Reach me on maiil - 'ghan6171@gmail.com' or on Discord-id - 'DeadShoot#1731'</li>
